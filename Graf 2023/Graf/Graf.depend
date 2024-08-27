@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1665592550 source:d:\graf\graf.cpp
+	"graf.h"
+	<iostream>
+	<queue>
+	<utility>
+	<algorithm>
+
+1665590118 d:\graf\graf.h
+	<list>
+	<vector>
+
+1665588906 source:d:\graf\main.cpp
+	<iostream>
+	"graf.h"
+
+1666802614 source:c:\users\admin\desktop\graf\graf.cpp
+	"graf.h"
+	<iostream>
+	<queue>
+	<utility>
+	<algorithm>
+
+1666802502 c:\users\admin\desktop\graf\graf.h
+	<list>
+	<vector>
+
+1666798883 source:c:\users\admin\desktop\graf\main.cpp
+	<iostream>
+	"graf.h"
+
+1697113386 source:c:\users\admin\downloads\graf (1)\graf\graf.cpp
+	"graf.h"
+	<iostream>
+	<queue>
+	<utility>
+	<algorithm>
+
+1697111725 c:\users\admin\downloads\graf (1)\graf\graf.h
+	<list>
+	<vector>
+
+1697110614 source:c:\users\admin\downloads\graf (1)\graf\main.cpp
+	<iostream>
+	"graf.h"
+
+1697719708 source:c:\users\admin\downloads\graf 2023\graf\graf.cpp
+	"graf.h"
+	<iostream>
+	<queue>
+	<utility>
+	<algorithm>
+
+1697720063 c:\users\admin\downloads\graf 2023\graf\graf.h
+	<list>
+	<vector>
+
+1697720333 source:c:\users\admin\downloads\graf 2023\graf\main.cpp
+	<iostream>
+	"graf.h"
+

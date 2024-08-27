@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1699534786 source:c:\users\admin\desktop\tezinskigrf\main.cpp
+	<iostream>
+	"tezinski_graf.h"
+
+1699533903 c:\users\admin\desktop\tezinskigrf\tezinski_graf.h
+	<vector>
+	<list>
+	<utility>
+
+1699532774 source:c:\users\admin\desktop\tezinskigrf\tezinski_graf.cpp
+	"tezinski_graf.h"
+	<climits>
+
+1700137646 source:c:\users\admin\downloads\tezinskigrf\tezinski_graf.cpp
+	"tezinski_graf.h"
+	<climits>
+	<iostream>
+	<set>
+
+1701952949 c:\users\admin\downloads\tezinskigrf\tezinski_graf.h
+	<vector>
+	<list>
+	<utility>
+
+1701953566 source:c:\users\admin\downloads\tezinskigrf\main.cpp
+	<iostream>
+	"tezinski_graf.h"
+

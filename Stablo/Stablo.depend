@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1671469111 source:c:\users\admin\desktop\stablo\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"stablo.h"
+
+1671468820 c:\users\admin\desktop\stablo\stablo.h
+	"stablo.cpp"
+
+1671468954 c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1671468954 source:c:\users\admin\desktop\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1671634577 source:c:\users\admin\downloads\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
+1671634336 c:\users\admin\downloads\stablo\stablo.h
+	"stablo.cpp"
+
+1671634577 c:\users\admin\downloads\stablo\stablo.cpp
+	"stablo.h"
+	<iostream>
+
